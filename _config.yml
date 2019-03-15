@@ -19,7 +19,7 @@ locale: en-US
 title: "My Awesome Site"
 description: "It really is the best."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://misoa.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -87,13 +87,12 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: "Miso Park"
   picture:
-  email:
-  twitter:
+  email: "alth7512@gmail.com"
   links:
     - title:
-      url:
+      url: "https://misoa.github.io"
       icon:
 
 # Footer Links
